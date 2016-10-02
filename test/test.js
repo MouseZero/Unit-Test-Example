@@ -3,7 +3,6 @@ const chai = require('chai')
 const numbers = require('../src/numbers')
 const add = numbers.add
 const isEven = numbers.isEven
-// const isEven = Numbers.isEven
 
 chai.should()
 
